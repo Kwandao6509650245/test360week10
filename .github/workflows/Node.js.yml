@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ $Kwandao-patch-1 ]
+    branches: [ $Kwandao6509650245-patch-1 ]
   pull_request:
-    branches: [ $Kwandao-patch-1 ]
+    branches: [ $Kwandao6509650245-patch-1 ]
 
 jobs:
   build:
