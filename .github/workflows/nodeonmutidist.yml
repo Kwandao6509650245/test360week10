@@ -2,9 +2,9 @@ name: nodeonmutidist
 
 on:
   push:
-    branches: [Kwandao6509650245-patch-1]
+    branches: [ '**' ]
   pull_request:
-    branches: [Kwandao6509650245-patch-1]
+    branches: [ '**' ]
 
 jobs:
   # Job 1: รันงานบน ubuntu-latest
